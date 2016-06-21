@@ -1,0 +1,5 @@
+{
+    "require": {
+        "gabrielrcouto/php-gui": "^0.1.0"
+    }
+}

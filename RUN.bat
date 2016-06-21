@@ -1,0 +1,1 @@
+RunHiddenConsole php app/01-basic/example.php

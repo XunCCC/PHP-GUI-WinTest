@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="C:\PRO-DEV\Lazarus\fpc\3.0.0\bin\x86_64-win64\fpc.exe" Date="1213098656"/>
+  <Params Value=" -MObjFPC -Scghi -O1 -g -gl -WG -l -vewnhibq -FiC:\LOCAL-PHP\PHP-GUI\vendor\gabrielrcouto\php-gui\lazarus\lib\x86_64-win64 -FuC:\LOCAL-PHP\PHP-GUI\vendor\gabrielrcouto\php-gui\lazarus -FuC:\PRO-DEV\Lazarus\lcl\units\x86_64-win64\win32 -FuC:\PRO-DEV\Lazarus\lcl\units\x86_64-win64 -FuC:\PRO-DEV\Lazarus\components\lazutils\lib\x86_64-win64 -FuC:\PRO-DEV\Lazarus\packager\units\x86_64-win64 -FUC:\LOCAL-PHP\PHP-GUI\vendor\gabrielrcouto\php-gui\lazarus\lib\x86_64-win64\ -ophpgui-x86_64-win64.exe -dLCL -dLCLwin32 -dUseCThreads phpgui.lpr"/>
+  <Complete Value="False"/>
+</CONFIG>
